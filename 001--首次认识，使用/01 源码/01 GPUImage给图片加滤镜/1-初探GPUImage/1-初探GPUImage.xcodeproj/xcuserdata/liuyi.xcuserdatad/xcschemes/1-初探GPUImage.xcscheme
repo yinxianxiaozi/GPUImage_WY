@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0830"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D666C9202088CB86001A9ECC"
+               BuildableName = "1-&#x521d;&#x63a2;GPUImage.app"
+               BlueprintName = "1-&#x521d;&#x63a2;GPUImage"
+               ReferencedContainer = "container:1-&#x521d;&#x63a2;GPUImage.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D666C9392088CB86001A9ECC"
+               BuildableName = "1-&#x521d;&#x63a2;GPUImageTests.xctest"
+               BlueprintName = "1-&#x521d;&#x63a2;GPUImageTests"
+               ReferencedContainer = "container:1-&#x521d;&#x63a2;GPUImage.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D666C9442088CB86001A9ECC"
+               BuildableName = "1-&#x521d;&#x63a2;GPUImageUITests.xctest"
+               BlueprintName = "1-&#x521d;&#x63a2;GPUImageUITests"
+               ReferencedContainer = "container:1-&#x521d;&#x63a2;GPUImage.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D666C9202088CB86001A9ECC"
+            BuildableName = "1-&#x521d;&#x63a2;GPUImage.app"
+            BlueprintName = "1-&#x521d;&#x63a2;GPUImage"
+            ReferencedContainer = "container:1-&#x521d;&#x63a2;GPUImage.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D666C9202088CB86001A9ECC"
+            BuildableName = "1-&#x521d;&#x63a2;GPUImage.app"
+            BlueprintName = "1-&#x521d;&#x63a2;GPUImage"
+            ReferencedContainer = "container:1-&#x521d;&#x63a2;GPUImage.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D666C9202088CB86001A9ECC"
+            BuildableName = "1-&#x521d;&#x63a2;GPUImage.app"
+            BlueprintName = "1-&#x521d;&#x63a2;GPUImage"
+            ReferencedContainer = "container:1-&#x521d;&#x63a2;GPUImage.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

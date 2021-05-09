@@ -1,0 +1,7 @@
+platform :ios, ‘7.0'
+
+target ‘1-初探GPUImage’ do
+
+pod ‘GPUImage’
+
+end
